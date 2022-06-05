@@ -1,7 +1,7 @@
 {
   "name": "userdata-path",
   "version": "0.1.1",
-  "description": "Get the path of userData folder in system.",
+  "description": "Get the path of user data folder in system.",
   "main": "dist/userdata-path.js",
   "typings": "dist/types/main.d.ts",
   "files": [
